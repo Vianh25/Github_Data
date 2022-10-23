@@ -6,3 +6,7 @@
 #git commit --amend-m "amend descriptive meassage" : sua lai mo ta cho commit truoc do
 #git push origin [branch-name] : upload all local branch commits to Github
 #git status : to see the status of working directory and staging area
+#git diff : to view the changes you made relative t0 staging area for the next commit
+git log : list versio history for the current branch
+git log --oneline : hiển thị mỗi commit trên một dòn
+git reset : remove the specified file from the staging area, but leave the working directory unchanged
