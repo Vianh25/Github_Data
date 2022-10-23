@@ -1,0 +1,7 @@
+#git init : khoi tao folder
+#git remote add origin add remote git
+#git clone copy project tu github vegt
+#git add : đưa thư mục từ working directory to Staging Index
+#git commit -m "descriptive message" : luu lai cac snapshot thay doi vao trong Staging area
+#git commit --amend-m "amend descriptive meassage" : sua lai mo ta cho commit truoc do
+#git push origin [branch-name] : upload all local branch commits to Github
