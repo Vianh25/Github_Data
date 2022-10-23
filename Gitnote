@@ -5,3 +5,4 @@
 #git commit -m "descriptive message" : luu lai cac snapshot thay doi vao trong Staging area
 #git commit --amend-m "amend descriptive meassage" : sua lai mo ta cho commit truoc do
 #git push origin [branch-name] : upload all local branch commits to Github
+#git status : to see the status of working directory and staging area
